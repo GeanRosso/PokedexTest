@@ -7,7 +7,7 @@ function Footer() {
       </p>
 
       <a
-        href="https://www.linkedin.com/in/waqar-ahmed-khan-2ab2781b5/"
+        href="https://www.linkedin.com/in/gean-rosso-a1488521a/"
         target="_blank"
         rel="noreferrer"
         className="footer-linkedin-button"
